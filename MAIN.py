@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[28]:
-
-
 from fastapi import FastAPI
 import pandas as pd
 
