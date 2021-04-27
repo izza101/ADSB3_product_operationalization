@@ -4,7 +4,6 @@
 # In[28]:
 
 
-from typing import Optional
 from fastapi import FastAPI
 import pandas as pd
 
